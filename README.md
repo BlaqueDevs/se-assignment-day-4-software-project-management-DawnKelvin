@@ -16,19 +16,10 @@ Agile methodology is an iterative and incremental approach to project management
 Agile methodology is flexible and good for collaborative projects while waterfall is rigid and each phase must be completed before the next begins.
 Agile methodology is responsive to changes while waterfall is difficult to accomodate changes.
 waterfall provides a clear structure and documentation while Agile is less predictable.
-Advantages of Agile Methodology;
-1. Quick response to changes.
-2. Regular customer feedback.
-3. Improved team collaboration.
-Disdvantages of Agile methodology;
-1. Less predictability.
-2. Requires significant customer involvement.
-Advantages of Waterfall methodology
-1. Clear structure and documentation.
-2. Easy to manage due to its rigidity.
-Disadvantages of Waterfall methodology;
-1. Difficult to accommodate changes.
-2. Testing occurs late in the process.
+Advantages of Agile Methodology; Quick response to changes, Regular customer feedback, Improved team collaboration.
+Disdvantages of Agile methodology; Less predictability, Requires significant customer involvement.
+Advantages of Waterfall methodology; Clear structure and documentation, Easy to manage due to its rigidity.
+Disadvantages of Waterfall methodology; Difficult to accommodate changes, Testing occurs late in the process.
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 Waterfall model is best suited when developers already have designed and developed a similar software in the past and are aware of all its domains. It is also suitable for projects which requre a high volume of documentation and have repeatable, predictable processes. It is effective for projects with well-defined requirements and minimal expected changes, ensuring consistency and traceable control.
 Agile is best suited for projects that have flexible processes and incorporate customer feedback throughout the process. Projects requirements can change any time in the project based on changing business needs or customer feedback.
