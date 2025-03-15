@@ -12,8 +12,36 @@ Effective cost control is important as it helps prevent budget overruns, optimiz
   5. Open communication with collaborators and stakeholders to align expectations and address concerns.
   6. Periodic cost audits to verify accuracy and ensure compliance with budget plans.
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
+Agile methodology is an iterative and incremental approach to project management while waterfall is a linear, sequential approach.
+Agile methodology is flexible and good for collaborative projects while waterfall is rigid and each phase must be completed before the next begins.
+Agile methodology is responsive to changes while waterfall is difficult to accomodate changes.
+waterfall provides a clear structure and documentation while Agile is less predictable.
+Advantages of Agile Methodology;
+1. Quick response to changes.
+2. Regular customer feedback.
+3. Improved team collaboration.
+Disdvantages of Agile methodology;
+1. Less predictability.
+2. Requires significant customer involvement.
+Advantages of Waterfall methodology
+1. Clear structure and documentation.
+2. Easy to manage due to its rigidity.
+Disadvantages of Waterfall methodology;
+1. Difficult to accommodate changes.
+2. Testing occurs late in the process.
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+Waterfall model is best suited when developers already have designed and developed a similar software in the past and are aware of all its domains. It is also suitable for projects which requre a high volume of documentation and have repeatable, predictable processes. It is effective for projects with well-defined requirements and minimal expected changes, ensuring consistency and traceable control.
+Agile is best suited for projects that have flexible processes and incorporate customer feedback throughout the process. Projects requirements can change any time in the project based on changing business needs or customer feedback.
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+To ensure quality assurance throughout software development process, the following methods can be implemented;
+1. Regular code reviews to identify potential issues, improve code quality and ensure adherence to coding standards.
+2. Implementing automated testing to identify bugs early.
+3. Integrating code changes frequently into a central repository, trigger automated tests to ensure code quality.
+4. Establish quality assurance activities focusing on preventing, detecting and correcting defects.
+5. Implement robust bug tracking to manage and track defects identified during testing.
+6. Implement quality control measures to ensure that software meets the defined quality standards.
+7. Periodic audits to assess project activities against the quality plan/standards and identify deviations.
+Maintaining high standards throughout software project is important for ensuring quality, reliability, long term maintainability and re-usability. High standards leads to customer satisfaction, reduces costs and maintain a competitive edge over other related softwares. High standards also lead to a more efficient code execution, better resource utilization and faster response times.
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
